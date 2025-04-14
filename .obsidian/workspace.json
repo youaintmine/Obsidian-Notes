@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "777648508c9b0de1",
+        "id": "e856b533192ef4bb",
         "type": "tabs",
         "children": [
           {
-            "id": "6f80115fd4315133",
+            "id": "6e1c0f660abdeeaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Index/Template Test.md",
+                "file": "101 Rust/Basics in Rust/Ownership.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template Test"
+              "title": "Ownership"
             }
           }
         ]
@@ -145,13 +145,23 @@
               "icon": "lucide-list",
               "title": "Outline of 5. Mutexes"
             }
+          },
+          {
+            "id": "9060318ebaf20773",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,13 +170,34 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f80115fd4315133",
+  "active": "6e1c0f660abdeeaa",
   "lastOpenFiles": [
-    "999 Templates/Class.md",
+    "string2.svg",
+    "string1 1.svg",
+    "string1.svg",
+    "101 Rust/Basics in Rust/Common Concepts.md",
+    "101 Rust/Basics in Rust/Ownership.md",
+    "101 Rust/Basics in Rust/Cargo.md",
+    "200 Machine Coding/Car Pooling System/User case diagram.md",
+    "101 Rust/Basics in Rust",
+    "101 Rust",
+    "Untitled.md",
+    "200 Machine Coding/Car Pooling System/Functional Requirements.md",
+    "200 Machine Coding/Car Pooling System",
+    "Untitled.canvas",
+    "2025-03-24.md",
+    "200 Machine Coding/Car Rental System/System Requirements.md",
     "000 Index/Template Test.md",
+    "200 Machine Coding/Car Rental System",
+    "200 Machine Coding",
+    "Kafka",
+    "README.md",
+    "999 Templates/Class.md",
     "100 Golang/Pasted image 20240624020128.png",
     "000 Index/Handling Gracefully shutdown.md",
     "Template Test",
@@ -184,23 +215,7 @@
     "100 Golang/Concurrency In Golang/3. tests in waitgroups.md",
     "100 Golang/Concurrency In Golang/2. waitgroups.md",
     "100 Golang/Concurrency In Golang/1.1 Go Routines.md",
-    "100 Golang/Concurrency In Golang/1. Intro To Golang Concurrency.md",
-    "100 Golang/Golang Subscription Serice/Adding sessions and redis.md",
     "000 Index",
-    "100 Golang/Golang Subscription Serice/postgres connection in golang.md",
-    "Untitled",
-    "100 Golang/Golang Subscription Serice/Introduction.md",
-    "100 Golang/Golang Subscription Serice",
-    "Golang/Concurrency In Golang/Untitled",
-    "SendBird Integration/Send Messages..md",
-    "SendBird Integration/Users.md",
-    "100 Golang/Concurrency In Golang/8.1 producer.md",
-    "100 Golang/Concurrency In Golang/6. Test Mutexes.md",
-    "Path to a better future/Is this loneliness that I feel OR is it the solitude that I needed?.md",
-    "Path to a better future",
-    "Untitled.canvas",
-    "SendBird Integration",
-    "Golang/Untitled 1",
-    "100 Golang/Concurrency In Golang"
+    "100 Golang/Golang Subscription Serice"
   ]
 }
